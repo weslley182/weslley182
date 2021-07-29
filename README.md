@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Wesley Rodrigues Machado
-- 👀 I’m interested in learn
-- 🌱 I’m currently learning .NET
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in learn Angular
+- 🌱 I’m currently working on .NET
+- 💞️ I’m looking to collaborate on projects in .net
+
 
 <!---
 weslley182/weslley182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
