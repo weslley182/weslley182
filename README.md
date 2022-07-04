@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wesley Rodrigues Machado
-- 👀 I’m interested in learn Angular
-- 🌱 I’m currently working on .NET
+- 👀 I’m interested in learn GoLang
+- 🌱 I’m currently working on .NET and Algular
 - 💞️ I’m looking to collaborate on projects in .net
 
 
