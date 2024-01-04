@@ -1,9 +1,6 @@
 <div>
-
   <img height="180em" src=https://github-readme-stats.vercel.app/api?username=weslley182&show_icons=true&theme=algolia&include_all_commits=true&count_private=true/>
-
   <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=weslley182&layout=compact&langs_count=6&theme=algolia/>
-
 </div>
 
 - 👋 Hi, I’m Wesley Rodrigues Machado
