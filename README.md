@@ -4,7 +4,7 @@
 </div>
 
 - 👋 Hi, I’m Wesley Rodrigues Machado
-- 👀 I’m interested in learn GoLang
+- 👀 I’m interested in learn Kubernetes
 - 🌱 I’m currently working on .NET and Angular
 - 💞️ I’m looking to collaborate on projects in .net
 
